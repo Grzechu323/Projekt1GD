@@ -94,3 +94,16 @@ table, th, td {
 aside {
     padding-left: 2.5%;
 }
+.macik {
+    margin: auto;
+    width: 416px;
+    height: 416px;
+    background-image: url("../img/mat.png");
+}
+.macik:hover{
+    background-position: 416px;
+}
+h5 {
+    font-family: "Comic Sans", "Comic Sans MS", Impact, serif;
+    font-size: 1em;
+}

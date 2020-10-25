@@ -1,0 +1,41 @@
+body {
+    background-image: url("../img/szachownica.png");
+    background-repeat: repeat, repeat;
+    background-color: rgb(255,255,255);
+    border: 3px solid rgb(75,75,75);
+    margin: 30px auto 0 auto;
+    padding: 30px;
+    width: 76%;
+    box-shadow: 10px 10px 5px #000000;
+
+}
+#homepage {
+    background-color: rgb(255,175,175);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    font-size: 2.75em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 1px;
+    color: rgb(255,100,0);
+    background-color: rgb(100,100,100);
+    margin: 0 0 10px 0;
+}
+h2 {
+    font-size: 2.75em;
+    font-family: "Arial Narrow", Arial, Georgia, serif;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 1px;
+}
+footer {
+    alignment: bottom;
+    margin: 10px 0 0 0;
+}
